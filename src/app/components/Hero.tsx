@@ -15,20 +15,20 @@ const Hero = () => {
 
       <div className="bg-white flex sm:gap-10 gap-3 justify-around  lg:mx-36 py-5 mt-4 rounded-lg mb-10 md:w-[750px] md:mt-2 sm:text-base text-xs max-[430px]:flex-wrap px-3" >
        <div className="select">
-       <select className="font-bold ">
-        <option className="text-[#222222]">Location</option>
+       <select className="font-bold text-[#222222]">
+        <option >Location</option>
        </select>
        <p className="mt-2 text-[#666666]">Where are you going</p>
        </div>
        <div className="select">
-       <select className="font-bold">
-        <option value="" className="text-[#222222]">Date</option>
+       <select className="font-bold text-[#222222]">
+        <option >Date</option>
        </select>
        <p className="mt-2 text-[#666666]">When will you go</p>
        </div>
        <div className="select">
-       <select className="font-bold">
-        <option value="" className="text-[#222222]">Guest</option>
+       <select className="font-bold text-[#222222]">
+        <option >Guest</option>
        </select>
        <p className="mt-2 text-[#666666]">Number of guest</p>
        </div>
