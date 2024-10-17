@@ -22,7 +22,7 @@ const Footer = () => {
     </div>
     <div className="links flex lg:gap-36 md:gap-16 sm:gap-8 gap-8 justify-around">
        <div className="company">
-        <h3 className='font-bold sm:text-xl mb-6 text-base hover:border-b-4 hover:border-[#fa7436] pb-2'>Company</h3>
+        <h3 className='font-bold sm:text-xl mb-6 text-base hover:border-b-4 hover:border-[#fa7436] pb-2 text-[#222222]'>Company</h3>
         <ul>
             <li  className='text-[#666666] sm:text-base text-sm mb-2 sm:mb-4'>About</li>
             <li className='text-[#666666] sm:text-base text-sm mb-2 sm:mb-4'>Careers</li>
@@ -31,7 +31,7 @@ const Footer = () => {
         </ul>
        </div>
        <div className="company">
-        <h3 className='font-bold sm:text-xl mb-6 text-base hover:border-b-4 hover:border-[#fa7436] pb-2'>Contact</h3>
+        <h3 className='font-bold sm:text-xl mb-6 text-base hover:border-b-4 hover:border-[#fa7436] pb-2 text-[#222222]'>Contact</h3>
         <ul>
             <li className='text-[#666666] sm:text-base text-sm mb-2 sm:mb-4'>Help/FAQ</li>
             <li className='text-[#666666] sm:text-base text-sm mb-2 sm:mb-4'>Press</li>
@@ -39,7 +39,7 @@ const Footer = () => {
         </ul>
        </div>
        <div className="company">
-        <h3 className='font-bold sm:text-xl mb-6 text-base hover:border-b-4 hover:border-[#fa7436] pb-2'>More</h3>
+        <h3 className='font-bold sm:text-xl mb-6 text-base hover:border-b-4 hover:border-[#fa7436] pb-2 text-[#222222]'>More</h3>
         <ul>
             <li className='text-[#666666] sm:text-base text-sm mb-2 sm:mb-4'>Press Centre</li>
             <li className='text-[#666666] sm:text-base text-sm mb-2 sm:mb-4'>Our Blog</li>

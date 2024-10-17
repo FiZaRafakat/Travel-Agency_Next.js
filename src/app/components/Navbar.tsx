@@ -10,11 +10,11 @@ const Navbar = () => {
     </div>
     </div>
     <div className="nav cursor-pointer hidden md:block lg:block">
-    <li className='inline hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436]'>Home</li>
-    <li className='inline lg:ml-10 md:ml-5 hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436]'>About</li>
-    <li className='inline lg:ml-10 md:ml-5 hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436]'>Destination</li>
-    <li className='inline lg:ml-10 md:ml-5 hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436]'>Tour</li>
-    <li className='inline lg:ml-10 md:ml-5 hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436]'>Blog</li>
+    <li className='inline hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436] text-[#222222]'>Home</li>
+    <li className='inline lg:ml-10 md:ml-5 hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436] text-[#222222]'>About</li>
+    <li className='inline lg:ml-10 md:ml-5 hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436] text-[#222222]'>Destination</li>
+    <li className='inline lg:ml-10 md:ml-5 hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436] text-[#222222]'>Tour</li>
+    <li className='inline lg:ml-10 md:ml-5 hover:border-y-2 hover:border-[#fa7436] hover:py-2 hover:text-[#fa7436] text-[#222222]'>Blog</li>
     </div>
     <div className='flex gap-8 items-center'>
     <div className="login sm:block hidden">

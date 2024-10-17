@@ -9,7 +9,7 @@ const VacationPlan = () => {
     <div className=' lg:px-40 md:px-16 px-6 pb-20'>
         <div className="head flex justify-center items-center pt-[3rem] pb-2 flex-wrap-reverse">
             <div className="text text-center">
-            <h1 className='text-5xl font-[poppins] font-bold mb-4'>Best <span className='text-[#fa7436]'>vacation plan</span></h1>
+            <h1 className='text-5xl font-[poppins] font-bold mb-4 text-[#222222]'>Best <span className='text-[#fa7436]'>vacation plan</span></h1>
             <p className='text-[#666666] leading-8 tracking-wide sm:text-base text-sm max-w-[500px]' >Plan your perfect vacation with our travel agency. Choose 
                  among hundreds of all-inclusive offers!</p>
             </div>
@@ -25,7 +25,7 @@ const VacationPlan = () => {
         <div className='bg-[url(images/image-5.png)] bg-contain bg-no-repeat h-[290px] w-[300px] hover:contrast-150 max-[320px]:w-[250px] max-[320px]:h-[240px] '></div>
         <div className="title px-4 pb-3 pt-2">
             <div className="text font-bold flex justify-between text-lg pb-2">
-                <p >Rome, Italy</p>
+                <p className='text-[#222222]'>Rome, Italy</p>
                 <p className='text-[#fa7436]'>$5,42K</p>
             </div>
             <div className="sec flex justify-between">
@@ -44,7 +44,7 @@ const VacationPlan = () => {
         <div className='bg-[url(images/Image6.png)] bg-contain bg-no-repeat h-[290px] w-[300px] hover:contrast-150 max-[320px]:w-[250px] max-[320px]:h-[240px]'></div>
         <div className="title px-4 pb-3 pt-2">
             <div className="text font-bold flex justify-between text-lg pb-2">
-                <p >London, UK</p>
+                <p className='text-[#222222]' >London, UK</p>
                 <p className='text-[#fa7436]'>$2,42K</p>
             </div>
             <div className="sec flex justify-between">
@@ -63,7 +63,7 @@ const VacationPlan = () => {
         <div className='bg-[url(images/Image7.png)] bg-contain bg-no-repeat h-[290px] w-[300px] hover:contrast-150 max-[320px]:w-[250px] max-[320px]:h-[240px]'></div>
         <div className="title px-4 pb-3 pt-2">
             <div className="text font-bold flex justify-between text-lg pb-2">
-                <p >Osaka, Japan</p>
+                <p className='text-[#222222]' >Osaka, Japan</p>
                 <p className='text-[#fa7436]'>$5,42K</p>
             </div>
             <div className="sec flex justify-between">

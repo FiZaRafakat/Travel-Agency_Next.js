@@ -7,7 +7,7 @@ const Deals = () => {
   return (
     <div className='lg:px-40 md:px-20 mt-24 px-8'>
         <div className="heading text-center flex flex-col justify-center items-center">
-            <h2 className='md:text-5xl font-[poppins] font-bold mb-3 text-4xl '>Exclusive <span className='text-[#fa7436]' >deals & discounts</span></h2>
+            <h2 className='md:text-5xl font-[poppins] font-bold mb-3 text-4xl text-[#222222]'>Exclusive <span className='text-[#fa7436]' >deals & discounts</span></h2>
             <p className='text-[#666666] leading-8 tracking-wide max-w-[25rem] sm:text-base text-sm'>Discover our fantastic early booking discounts
             & start planning your journey.
             </p>
@@ -17,7 +17,7 @@ const Deals = () => {
                 <div className='bg-[url(images/Image2.png)] bg-contain bg-no-repeat h-[250px] w-[220px] hover:brightness-75'></div>
               <div className='px-3'>
               <div className="text flex justify-between mt-3 ">
-                    <h1 className='font-bold text-lg'>Madrid</h1>
+                    <h1 className='font-bold text-lg text-[#222222]'>Madrid</h1>
                     <div className='flex gap-2 items-center'><p><FaStar className='text-yellow-400'/></p> <p className='text-[#666666]'>4.8</p></div>
                 </div>
                 <div className="location flex text-[#666666] mt-3 justify-between items-center" >
@@ -33,7 +33,7 @@ const Deals = () => {
                 <div className='bg-[url(images/italy-pic.jpg)] bg-contain bg-no-repeat h-[250px] w-[235px] rounded-lg hover:brightness-75'></div>
               <div className='px-3'>
               <div className="text flex justify-between mt-3 ">
-                    <h1 className='font-bold text-lg'>Firenze</h1>
+                    <h1 className='font-bold text-lg text-[#222222]'>Firenze</h1>
                     <div className='flex gap-2 items-center'><p><FaStar className='text-yellow-400'/></p> <p className='text-[#666666]'>4.5</p></div>
                 </div>
                 <div className="location flex text-[#666666] mt-3 justify-between items-center" >
@@ -45,11 +45,11 @@ const Deals = () => {
                 </div>
               </div>
             </div>
-            <div className="card2 bg-white pb-7 rounded-xl" data-aos="flip-right">
+            <div className="card3 bg-white pb-7 rounded-xl" data-aos="flip-right">
                 <div className='bg-[url(images/Image3.png)] bg-contain bg-no-repeat h-[250px] w-[220px] hover:brightness-75'></div>
               <div className='px-3'>
               <div className="text flex justify-between mt-3 ">
-                    <h1 className='font-bold text-lg'>Paris</h1>
+                    <h1 className='font-bold text-lg text-[#222222]'>Paris</h1>
                     <div className='flex gap-2 items-center'><p><FaStar className='text-yellow-400'/></p> <p className='text-[#666666]'>4.4</p></div>
                 </div>
                 <div className="location flex text-[#666666] mt-3 justify-between items-center" >
@@ -65,7 +65,7 @@ const Deals = () => {
                 <div className='bg-[url(images/Image4.png)] bg-contain bg-no-repeat h-[250px] w-[220px] hover:brightness-75'></div>
               <div className='px-3'>
               <div className="text flex justify-between mt-3 ">
-                    <h1 className='font-bold text-lg'>London</h1>
+                    <h1 className='font-bold text-lg text-[#222222]'>London</h1>
                     <div className='flex gap-2 items-center'><p><FaStar className='text-yellow-400'/></p> <p className='text-[#666666]'>4.8</p></div>
                 </div>
                 <div className="location flex text-[#666666] mt-3 justify-between items-center" >
