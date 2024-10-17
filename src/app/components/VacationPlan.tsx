@@ -10,7 +10,7 @@ const VacationPlan = () => {
         <div className="head flex justify-center items-center pt-[3rem] pb-2 flex-wrap-reverse">
             <div className="text text-center">
             <h1 className='text-5xl font-[poppins] font-bold mb-4'>Best <span className='text-[#fa7436]'>vacation plan</span></h1>
-            <p className='text-[#666666] leading-8 tracking-wide sm:text-base text-sm'>Plan your perfect vacation with our travel agency. Choose 
+            <p className='text-[#666666] leading-8 tracking-wide sm:text-base text-sm max-w-[500px]' >Plan your perfect vacation with our travel agency. Choose 
                  among hundreds of all-inclusive offers!</p>
             </div>
             <div className='bg-[url(images/Element2.png)] bg-contain bg-no-repeat h-32 w-32 ml-10' data-aos="zoom-in" ></div>
