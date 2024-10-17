@@ -12,7 +12,7 @@ import Footer from './components/Footer'
 import AOS from "aos"
 import "aos/dist/aos.css"
 
-const page = () => {
+const Page = () => {
   useEffect(()=>{
   AOS.init({
      easing : "ease-out-back",
@@ -40,4 +40,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page
