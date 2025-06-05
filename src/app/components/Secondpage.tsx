@@ -5,7 +5,7 @@ const Secondpage = () => {
     <main className='bg-[#f7f8fc] lg:px-30 md:px-10 px-8 pb-16'>
        <div className="pt-20  flex text-center justify-center items-center flex-wrap-reverse ">
        <div className="heading sm:mr-10">
-       <h1 className='text-4xl font-bold font-[poppins] mb-5 text-[#222222]'>Things you need <span className='text-[#fa7436]'>to do</span></h1>
+       <h1 className='text-4xl font-semibold font-[poppins] mb-5 text-[#222222]'>Things you need <span className='text-[#fa7436]'>to do</span></h1>
         <p className='text-[#666666] leading-8 tracking-wide max-w-[27rem] sm:text-base text-sm'>We ensure that you&#39;ll embark on a perfectly planned, 
             safe vacation at a price you can afford.
         </p>
