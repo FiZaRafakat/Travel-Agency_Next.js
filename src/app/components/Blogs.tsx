@@ -5,7 +5,7 @@ import React from 'react'
 const Blogs = () => {
   return (
     <div className='lg:px-40 md:px-16 px-8 max-[549px]:px-3 mb-40 ' >
-        <h2 className='sm:text-5xl text-4xl font-bold font-[poppins] text-center mt-28 max-[549px]:mt-10 text-[#222222]'>Get update with <span className='text-[#fa7436]'>latest blog</span></h2>
+        <h2 className='sm:text-5xl text-4xl font-semibold font-[poppins] text-center mt-28 max-[549px]:mt-10 text-[#222222]'>Get update with <span className='text-[#fa7436]'>latest blog</span></h2>
         <div className="cards flex mt-16 justify-around gap-6 flex-wrap max-[549px]:gap-3">
             <div className="card1 flex flex-col w-[230px] max-[549px]:w-[130px] " data-aos="flip-right">
                 <div className='bg-[url(images/Image10.png)] bg-contain bg-no-repeat h-[240px] w-[230px] hover:brightness-125 max-[549px]:w-[130px] max-[549px]:h-[135px]'></div>
