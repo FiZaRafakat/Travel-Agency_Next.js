@@ -11,7 +11,7 @@ const Subscriber = () => {
       <div className='bg-[url(images/Element5.png)] bg-contain bg-no-repeat md:h-[130px] md:w-[140px] sm:w-[100px] sm:h-[90px] h-[50px] w-[70px] inline mt-3 ' data-aos="zoom-in-up"></div>
       </div>
       <div className='flex justify-center '>
-      <h3 className='text-white lg:text-5xl font-[poppins] font-bold text-center absolute sm:top-16 top-16 md:text-4xl text-xl sm:text-3xl'>Subscribe and get exclusive
+      <h3 className='text-white lg:text-5xl font-[poppins] font-semibold text-center absolute sm:top-16 top-16 md:text-4xl text-xl sm:text-3xl'>Subscribe and get exclusive
         <br />
          deals & offer</h3>
          <div className='relative'>
