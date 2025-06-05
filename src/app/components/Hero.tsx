@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="xl:px-32 flex flex-col items-center">
       <div className="hero flex justify-between lg:pl-24 pl-10 sm:flex-row flex-col ">
         <div className="card1 sm:w-2/5 my-6 w-6/7 mr-4" data-aos="fade-right">
-        <h1 className="md:text-5xl font-[poppins] font-bold mb-4 sm:mb-7 text-4xl text-[#222222]">Get started your exciting <span className="text-[#fa7436]">journey</span> with us.</h1>
+        <h1 className="md:text-5xl font-[poppins] font-semibold mb-4 sm:mb-7 text-4xl text-[#222222]">Get started your exciting <span className="text-[#fa7436]">journey</span> with us.</h1>
         <p className="text-[#666666] text-sm sm:text-base leading-6 sm:leading-8 tracking-wide">A Team of experience tourism professionals will provide you with the best advice and tips for your desire place. </p>
         <button className="border border-[#fa7436] text-[#fa7436] sm:mt-10 mt-5 lg:px-6 lg:py-3 py-1 sm:py-2 px-3  rounded hover:bg-[#fa7436] hover:text-white transition-all delay-150 ease-linear">Discover Now</button>
         </div>
