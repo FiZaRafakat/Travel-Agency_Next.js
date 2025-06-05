@@ -7,7 +7,7 @@ const Deals = () => {
   return (
     <div className='lg:px-40 md:px-20 mt-24 px-8'>
         <div className="heading text-center flex flex-col justify-center items-center">
-            <h2 className='md:text-5xl font-[poppins] font-bold mb-3 text-4xl text-[#222222]'>Exclusive <span className='text-[#fa7436]' >deals & discounts</span></h2>
+            <h2 className='md:text-5xl font-[poppins] font-semibold mb-3 text-4xl text-[#222222]'>Exclusive <span className='text-[#fa7436]' >deals & discounts</span></h2>
             <p className='text-[#666666] leading-8 tracking-wide max-w-[25rem] sm:text-base text-sm'>Discover our fantastic early booking discounts
             & start planning your journey.
             </p>
