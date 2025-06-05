@@ -7,7 +7,7 @@ const CustomerReview = () => {
     <div className='bg-[#f7f8fc] lg:px-36  px-8  pb-40'>
     <div className='flex  pt-3 flex-wrap md:flex-nowrap justify-center items-center'>
         <div className="left md:w-1/2 mr-10 max-w-[400px] " data-aos="zoom-in-right"  >
-          <h2 className='sm:text-5xl text-4xl font-bold font-[poppins] mb-5 lg:mt-40 text-[#222222]'>What people say <span className='text-[#fa7436]'>about us.</span></h2>
+          <h2 className='sm:text-5xl text-4xl font-semibold font-[poppins] mb-5 lg:mt-40 text-[#222222]'>What people say <span className='text-[#fa7436]'>about us.</span></h2>
           <p className='text-[#444444] leading-8 tracking-wide sm:text-base text-sm'>Our Clients send us bunch of smilies with our services and we love them. </p>
           <div className="buttons mb-20 flex mt-5 items-center gap-8 max-[430px]:gap-5">
         <button className='border rounded-full p-3 max-[430px]:p-2 border-[#666666]'><FaArrowLeftLong size={23} className='text-[#666666]' /></button>
